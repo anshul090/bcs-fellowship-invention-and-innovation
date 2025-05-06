@@ -1,13 +1,13 @@
 # Anshul Gandhi – Invention and Innovation (Body of Work)
 
 
-# Supporting Evidence – High-Impact AI Solutions (BCS Fellowship)
+## Supporting Evidence – High-Impact Data Science and AI Solutions
 
 This section contains references to supporting materials that validate the real-world impact, adoption, and external recognition of the projects described in the “Inspiring Others” and “Professional Impact” sections of the BCS Fellowship application.
 
 ---
 
-## **Smart Security Enhancer – Cybersecurity Engine Patent**
+### **Smart Security Enhancer – Cybersecurity Engine Patent**
 
 Filed with the United States Patent and Trademark Office (USPTO) in May 2023
 
@@ -17,7 +17,7 @@ Filed with the United States Patent and Trademark Office (USPTO) in May 2023
 
 ---
 
-## 2. **California Pressure Ulcer Quality Metric (HSAG + CDPH)**
+### 2. **California Pressure Ulcer Quality Metric (HSAG + CDPH)**
 
 Developed and implemented a clinical metric to replace the retired M0800 pressure ulcer measure, officially adopted by CDPH as part of QASP to drive performance-based improvement payments. Processed billions of clinical records using SAS, Python, and Shell, applying statistical modeling, advanced analytics, and regulatory validation to ensure robustness and compliance
 
@@ -26,7 +26,7 @@ Developed and implemented a clinical metric to replace the retired M0800 pressur
 
 ---
 
-## 3. **Colorado Department of Health Care Policy and Financing Reference – Multi-State Policy Influence**
+### 3. **Colorado Department of Health Care Policy and Financing Reference – Multi-State Policy Influence**
 
 The impact of the California Pressure Ulcer Measure extended beyond state borders. In its 2020 Pay-for-Performance Recommendations Report, the Colorado Department of Health Care Policy and Financing referenced California’s model as a framework to inform their own nursing facility incentives (**Page #14 of the pdf**).
 
