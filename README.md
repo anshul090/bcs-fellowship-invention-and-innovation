@@ -19,7 +19,8 @@ Filed with the United States Patent and Trademark Office (USPTO) in May 2023
 
 ## 2. **California Pressure Ulcer Quality Metric (HSAG + CDPH)**
 
-This clinical metric was developed to replace the retired federal M0800 pressure ulcer measure. It was officially published by the California Department of Public Health (CDPH) as part of its statewide Skilled Nursing Facility incentive program (QASP), supporting policy continuity and measurable care improvement.
+Developed and implemented a clinical metric to replace the retired M0800 pressure ulcer measure, officially adopted by CDPH as part of QASP to drive performance-based improvement payments. Processed billions of clinical records using SAS, Python, and Shell, applying statistical modeling, advanced analytics, and regulatory validation to ensure robustness and compliance
+
 
 🔗 [CDPH Published Specification Report – California-Specific Pressure Ulcers (F1)](https://www.cdph.ca.gov/Programs/CHCQ/LCP/CDPH%20Document%20Library/CDPHCASpecificPressureUlcersF1.pdf)
 
